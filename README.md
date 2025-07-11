@@ -18,7 +18,8 @@
 🔭Coder by choice, creator by heart.<br>
 🌱 Still learning ,building and growing ,<br>
 ✨ "Code with empathy, build with purpose."<br>
-💫 Bringing imagination to life through code.<br> </p>
+💫 Bringing imagination to life through code.<br> </p><br>
+<br>
 
 
 ### 💻 Tech Stack:
