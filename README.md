@@ -14,7 +14,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">I'm Stuti, a 3rd year Computer Science student<br><br>
+<p align="left">I'm Stuti Shukla, a 4th year Computer Science student<br><br>
 🔭Coder by choice, creator by heart.<br>
 🌱 Still learning ,building and growing ,<br>
 ✨ "Code with empathy, build with purpose."<br>
